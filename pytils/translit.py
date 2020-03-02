@@ -111,7 +111,7 @@ TRANSTABLE = (
         # Make english alphabet full: append english-english pairs
         # for symbols which is not used in russian-english
         # translations. Used in slugify.
-        (u"c", u"c"),
+        (u"с", u"c"),
         (u"q", u"q"),
         (u"у", u"y"),
         (u"х", u"x"),
