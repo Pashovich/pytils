@@ -113,8 +113,8 @@ TRANSTABLE = (
         # translations. Used in slugify.
         (u"c", u"c"),
         (u"q", u"q"),
-        (u"y", u"у"),
-        (u"x", u"х"),
+        (u"у", u"y"),
+        (u"х", u"x"),
         (u"w", u"w"),
         (u"1", u"1"),
         (u"2", u"2"),
