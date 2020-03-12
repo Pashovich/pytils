@@ -40,8 +40,6 @@ TRANSTABLE = (
         (u"Ч", u"CH"),
         (u"Ш", u"Sh"),
         (u"Ш", u"SH"),
-        (u"Ы", u"Yi"),
-        (u"Ы", u"YI"),
         (u"Ю", u"Yu"),
         (u"Ю", u"YU"),
         (u"Я", u"Ya"),
